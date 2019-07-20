@@ -1,0 +1,14 @@
+{
+  "name": "2300-express-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
